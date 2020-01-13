@@ -1,0 +1,555 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+.container{
+	width: 1140px;
+	margin: 0 auto;
+}
+body{
+
+}
+
+
+/*header section start*/
+
+header{
+
+	width: 100%;
+
+	float: left;
+
+	background-color: #86509C;
+
+	padding: 25px 0px;
+}
+.logo{
+
+	width: 40%;
+
+	float: left;
+}
+.logo img{
+
+}
+.menu{
+
+	width: 60%;
+
+	float: left;
+}
+nav ul{
+
+	
+}
+nav ul li{
+
+	display: inline-block;
+
+	margin: 10px 30px;
+}
+nav ul li a{
+
+	text-decoration: none;
+
+	color: white;
+
+	font-size: 23px;
+}
+.header-main{
+
+	width: 550px;
+
+	margin: 0 auto;
+
+	text-align: center;
+
+	padding-top: 118px;
+
+	padding-bottom: 100px;
+}
+.header-main h2{
+
+	color: #fff;
+
+	font-size: 28px;
+}
+.btn-header{
+	
+	background-color: #EB7D4A;
+		
+	margin-top: 20px;
+		
+	padding: 9px 19px;
+		
+	border: none;
+		
+	color: white;
+		
+	text-transform: uppercase;
+		
+	font-size: 18px;
+		
+	box-shadow: 0px 3px orange;
+}
+
+/*service section start*/
+
+.service{
+
+	width: 100%;
+
+	float: left;
+
+	padding: 25px 0px;
+
+	background: #15C1A4;
+}
+.service-title{
+
+	width: 500px;
+
+	margin: 0 auto;
+
+	text-align: center;
+}
+.service-title h2{
+
+	text-transform: uppercase;
+
+	margin: 10px 0px;
+}
+.service-title span{
+
+	border-bottom: 2px solid black;
+
+	display: block;
+
+	width: 66px;
+
+	margin: 6px auto;
+}
+.service-title p{
+
+}
+.service-one{
+
+	width: 22%;
+
+	float: left;
+
+	text-align: center;
+
+	margin: 0px 17px;
+
+	padding: 35px 0px;
+}
+.service-one h2{
+	color: white;
+}
+.service-one p{
+	color: white;
+	margin: 10px 0px;
+}
+
+/*team section start*/
+
+.team{
+
+	width: 100%;
+
+	float: left;
+
+	padding: 25px 0px;
+
+	background: #D3D3D3;
+}
+.team-title{
+
+	width: 500px;
+
+	margin: 0 auto;
+
+	text-align: center;
+}
+.team-title h2{
+
+	text-transform: uppercase;
+
+	margin: 10px 0px;
+}
+.team-title span{
+
+	border-bottom: 2px solid black;
+
+	display: block;
+
+	width: 66px;
+
+	margin: 6px auto;
+}
+.team-one{
+
+	width: 22%;
+
+	float: left;
+
+	text-align: center;
+
+	margin: 0px 17px;
+
+	padding: 35px 0px;
+}
+.team-one img{
+	height: 160px;
+    width: 160px;
+}
+.team-one h2{
+	
+	text-transform: uppercase;
+		
+	margin-top: 10px;
+}
+.team-one h6{
+	
+	font-size: 14px;
+		
+	color: #5E418C;
+		
+	text-transform: uppercase;
+}
+.team-one p{
+	margin: 18px 0px;
+}
+.team-one ul li{
+	
+	display: inline-block;
+		
+	margin: 0px 6px;
+}
+.team-one ul a{
+	text-decoration: none;
+}
+.team-one ul a i{
+	color: white;
+	background-color: gray;
+	width: 22px;
+	height: 20px;
+	padding: 6px;
+	border-radius: 100%;
+}
+
+/*skill section start*/
+
+.skill{
+
+	width: 100%;
+
+	float: left;
+
+	padding: 25px 0px;
+
+	background: #fff;
+}
+.skill-title{
+
+	width: 500px;
+
+	margin: 0 auto;
+
+	text-align: center;
+}
+.skill-title h2{
+
+	text-transform: uppercase;
+
+	margin: 10px 0px;
+}
+.skill-title span{
+
+	border-bottom: 2px solid black;
+
+	display: block;
+
+	width: 66px;
+
+	margin: 6px auto;
+}
+.skill-one{
+
+	width: 22%;
+
+	float: left;
+
+	text-align: center;
+
+	margin: 0px 17px;
+
+	padding: 35px 0px;
+}
+    
+/*portfolio section start*/
+
+.portfolio{
+
+	width: 100%;
+
+	float: left;
+
+	padding: 25px 0px;
+
+	background: #FFDD98;
+}
+.portfolio-title{
+
+	width: 500px;
+
+	margin: 0 auto;
+
+	text-align: center;
+}
+.portfolio-title h2{
+
+	text-transform: uppercase;
+
+	margin: 10px 0px;
+}
+.portfolio-title span{
+
+	border-bottom: 2px solid black;
+
+	display: block;
+
+	width: 66px;
+
+	margin: 6px auto;
+}
+.btn-portfolio{
+	background-color: #C6AD75;
+    margin-top: 20px;
+    padding: 9px 10px;
+    border: none;
+    color: white;
+    text-transform: uppercase;
+    font-size: 18px;
+    margin: 13px;
+
+}
+.portfolio-one{
+	width: 45%;
+	float: left;
+	margin: 17px 25px;
+}
+.portfolio-one h3{
+	text-transform: uppercase;
+    text-align: center;
+    padding-top: 21px;
+}
+
+/*about section start*/
+
+.about{
+
+	width: 100%;
+
+	float: left;
+
+	background: #C8427A;
+
+	padding-bottom: 35px;
+}
+.about-title{
+
+	width: 500px;
+
+	margin: 0 auto;
+
+	text-align: center;
+
+	margin-top: 40px;
+}
+.about-title h2{
+	
+	color: white;
+		
+	margin: 10px 0px;
+		
+	text-transform: uppercase;
+}
+.about-title span{
+	border-bottom: 2px solid black;
+	display: block;
+	width: 66px;
+	margin: 6px auto;
+}
+.about-title p{
+	color: white;
+
+	margin-bottom: 25px;
+	
+}
+.about-one{
+
+	width: 45%;
+
+	float: left;
+
+	margin: 17px 25px;
+}
+.about-one img{
+	
+	height: 160px;
+		
+	float: left;
+}
+.content{
+	
+	width: 65%;
+		
+	float: left;
+		
+	margin-left: 19px;
+}
+.content p{
+	
+	color: white;
+}
+.content h2{
+	
+	color: white;
+		
+	text-transform: uppercase;
+		
+	font-size: 23px;
+		
+	padding-top: 26px;
+}
+.content h4{
+	
+	color: #EBC785;
+		
+	text-transform: uppercase;
+}
+
+/*contact section start*/
+
+
+.contact{
+
+	width: 100%;
+
+	float: left;
+
+	background: #3C549A;
+
+	padding-bottom: 35px;
+}
+.contact-title{
+
+	width: 500px;
+
+	margin: 0 auto;
+
+	text-align: center;
+
+	margin-top: 40px;
+}
+.contact-title h2{
+	
+	color: white;
+		
+	margin: 10px 0px;
+		
+	text-transform: uppercase;
+}
+.contact-title span{
+	border-bottom: 2px solid black;
+	display: block;
+	width: 66px;
+	margin: 6px auto;
+}
+.contact-title p{
+	color: white;
+
+	margin-bottom: 25px;
+}
+.contact-form{
+
+	width: 650px;
+
+	margin: 0 auto;
+}
+.form-control{
+
+	width: 45%;
+
+	float: left;
+
+	padding: 5px;
+
+	height: 25px;
+
+	margin-right: 8px;
+
+	background: #0C3053;
+
+	border: none;
+
+	color: white;
+}
+.cstm-textarea{
+
+	width: 94%!important;
+
+	padding: 5px;
+
+	height: 136px!important;
+
+	margin-top: 11px!important;
+
+	background: #0C3053;
+
+	border: none;
+
+	color: white;
+
+	margin-bottom: 21px;
+}
+.btn-contact{
+	background-color: #2FD0C0;
+	padding: 15px 26px;
+	border: none;
+	color: white;
+	text-transform: uppercase;
+	font-size: 18px;
+	display: block;
+	margin: 0 auto;
+}
+
+
+/*footer section start*/
+
+footer{
+	background-color: #334B8F;
+}
+.footer-menu{
+
+}
+.footer-menu ul{
+	
+}
+.footer-menu ul li{
+	display: inline-block;
+
+	margin: 10px 30px;
+
+}
+.footer-menu li a{
+	text-decoration: none;
+
+	color: white;
+
+	font-size: 23px;
+
+	padding: 26px 4px;
+}
